@@ -1,0 +1,11 @@
+Requirements:
+Sprint 01: 
+1. go to http://automationpractice.com/index.php
+2. Do login
+
+Spint 02:
+3. Check total dress number, name, price
+4. Select 5th dress
+
+Sprint 03:
+5. Complete the payment
